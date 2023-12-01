@@ -1,0 +1,43 @@
+# JUCE build directories
+Builds/
+JuceLibraryCode/
+
+# Binary and object files
+*.dll
+*.exe
+*.o
+*.obj
+
+# Visual Studio cache and temporary files
+*.aps
+*.bak
+*.cache
+*.ilk
+*.ncb
+*.opendb
+*.opensdf
+*.pdb
+*.sdf
+*.suo
+*.tmp
+*.user
+*.userosscache
+*.VC.db
+*.VC.opendb
+*.VC.VC.opendb
+*.VC.db-shm
+*.VC.db-wal
+ipch/
+Debug/
+Release/
+x64/
+x86/
+.vs/
+*.vcxproj.user
+*_i.c
+*_p.c
+
+# Other files and directories to ignore
+.DS_Store
+Thumbs.db
+*.log
